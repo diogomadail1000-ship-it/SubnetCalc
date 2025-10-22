@@ -6,7 +6,7 @@ Uma aplicação gráfica moderna desenvolvida em **Python** e **Tkinter** que ca
 
 ## 📸 Pré-visualização
 
-![Captura de ecrã](preview.png)  
+![Captura de ecrã](imagem_2025-10-22_114636541.png)  
 > Interface moderna em modo escuro com botões azuis, resultados detalhados e funcionamento offline.
 
 ---
